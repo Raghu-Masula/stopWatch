@@ -1,4 +1,6 @@
 # stopWatch
+
+visit link: https://raghu-masula.github.io/stopWatch/
 This repo contains a project given by Coding Ninjas to qualify the skill test
 
 Stop watch is created using Html, Css, vanilla Javascript
